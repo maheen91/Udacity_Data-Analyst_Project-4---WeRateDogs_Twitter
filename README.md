@@ -36,3 +36,7 @@ Every issue that was identified has been cleaned and tested in the jupyter noteb
 Storage
 
 The merged master dataframe was stored as a csv file.
+
+Data Analysis and Visualization
+
+The final step was analyzing the data and coming up with interesting insights.
